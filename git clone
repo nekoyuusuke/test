@@ -1,0 +1,5 @@
+$ git clone --bare https://github.com/saishi/certainmangareader.git
+$ cd certainmangareader.git
+$ git push --mirror https://github.com/saishi/test.git
+$ cd..
+$rm -r certainmangareader.git
